@@ -73,11 +73,15 @@ Selected Template: (https://www.figma.com/community/file/905622673082476274)
 We make our own table -> pdf?
 
 
+
 ## Evaluation Timeline
-- [ ] Date for distributing evaluation templates: ______________________
+- [ ] Date for distributing evaluation templates: sunday
 - [ ] Deadline for individual evaluations: ______________________
 - [ ] Date for consolidating findings: ______________________
 - [ ] Date for presenting results: ______________________
+
+next meeting 8/5 8PM
+
 
 ## Animal Roles
 https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Animals-Explanation.pdf
