@@ -11,6 +11,16 @@ This project focuses on improving the public transportation experience for urban
 - [Member 5 Name] - [Animal Role]
 - [Member 6 Name] - [Animal Role]
 
+## Animal Roles
+https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Animals-Explanation.pdf
+
+- Bear:
+- Wolf:
+- Cat:
+- Puppy:
+- Owl:
+- Rabbit:
+
 ## Repository Structure
 - `/Background` - Background information about the project
 - `/Personas` - Persona descriptions including Alex Singh
