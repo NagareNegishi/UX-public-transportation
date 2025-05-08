@@ -39,30 +39,39 @@ We are all familiar with the transportation app
 
 
 ## Evaluation Approach Decision
-- [ ] Conduct Heuristic Evaluation
+- [x] Conduct Heuristic Evaluation
 - [ ] Conduct Cognitive Walkthrough
 - [ ] Combine both approaches
 - [ ] Other approach: ______________________
 - [ ] Number of evaluation: ______________________
 
 
-Selected Approach: ______________________
-Number of Evaluations: ______________________
-
+Selected Approach: Heuristic Evaluation
+Number of Evaluations: 3 (at least 1)
+Combination:
+    Adam: Nagare, Philip, Josh
+    Nagare: Ben, Anthony, Adam
+    Ben: Philip, Josh, Anthony
+    Philip: Adam, Nagare, Ben
+    Anthony: Josh, Adam, Philip
+    Josh: Anthony, Ben, Nagare
 
 ## Template Selection
-- [ ] Use template from provided link
+- [x] Use template from provided link
 - [ ] Create custom template in Figma
 - [ ] Other template: ______________________
 
-Selected Template: ______________________
+Selected Template: (https://www.figma.com/community/file/905622673082476274)
 
 ## Template Requirements
-- [ ] Include severity scale
-- [ ] Include issue count per heuristic
+- [x] Include severity scale
+- [x] Include issue count per heuristic
 - [ ] Include total issues found
 (- [ ] Include screenshots/references to problem areas)
 (- [ ] Include recommendations for improvements)
+
+We make our own table -> pdf?
+
 
 ## Evaluation Timeline
 - [ ] Date for distributing evaluation templates: ______________________
