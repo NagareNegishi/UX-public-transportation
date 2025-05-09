@@ -56,7 +56,6 @@ SEVERITY: 3
 - Dropdown menu can be closed with same button
 )
 
-
 HEURISTICS: 4. Consistency and Standards
 VIOLATION:
 - Dropdown indicators vary in style across screens
@@ -289,60 +288,128 @@ SEVERITY: 2
 
 HEURISTICS: 1. Visibility of System Status
 VIOLATION:
+- No progress indicators when exporting to calendar (Assuming it will take time)
+- Component size of the departure time is small, considering it is a key information
 RECOMMENDATION:
-SEVERITY:
-(Strengths:)
+- Add progress indicators when exporting to calendar
+- Increase the component size / location of the departure time
+SEVERITY: 1
+(Strengths:
+- toggle buttons clearly indicate user's selection
+- Checkboxes are used to indicate selected options
+- Scroll indicators show the user where they are
+)
 
 HEURISTICS: 2. Match between the System and the Real World
 VIOLATION:
 RECOMMENDATION:
-SEVERITY:
-(Strengths:)
+- Use more intuitive icons to indicate systems / options
+SEVERITY: 0
+(Strengths:
+- Terminology like "Filter Transport" is clear and familiar
+- Uses familiar icons
+)
 
 HEURISTICS: 3. User Control and Freedom
 VIOLATION:
+- No "Undo" option (probably remove Saved Plans in this case)
 RECOMMENDATION:
-SEVERITY:
-(Strengths:)
+- Add an "Undo" option for removing saved plans
+SEVERITY: 1
+(Strengths:
+- Consistent back button in the top left corner
+- Home button is always visible / accessible
+)
 
 HEURISTICS: 4. Consistency and Standards
 VIOLATION:
+- Size and balance of some UI elements are inconsistent (toggle buttons, Text size)
+- Language options only appear in the Plan Schedule screen
 RECOMMENDATION:
-SEVERITY:
-(Strengths:)
+- Ensure consistent size and balance of UI elements across application
+- Ensure language options are available in all screens or move it to setting menu
+SEVERITY: 1
+(Strengths:
+- Consistent back button in the top left corner
+- Consistent setting button in the top right corner
+- Use of standard icons / UI elements
+)
 
 HEURISTICS: 5. Error Prevention
 VIOLATION:
+- No visible constraints on invalid inputs for the To/From fields
+- No confirmation when exporting to calendar
+- No confirmation when toggling "Share with group"
 RECOMMENDATION:
-SEVERITY:
-(Strengths:)
+- Implement constraints on invalid inputs
+- Add a confirmation dialog before exporting / sharing information
+SEVERITY: 3
+(Strengths:
+- Some UI elements prevent invalid inputs
+)
 
 HEURISTICS: 6. Recognition Rather than Recall
 VIOLATION:
+- User must know the name of to/from location
+- Grouping of UI elements may not be intuitive
+- What Disability Mode toggle changes is not clear
+- How to initiate a search / navigate from "Plan" is not clear
 RECOMMENDATION:
-SEVERITY:
-(Strengths:)
+- Provide suggestions based on user input
+- Use more intuitive grouping of UI elements
+- Provide Icons to help users recognize the purpose of each element
+SEVERITY: 3
+(Strengths:
+- Checkboxes, toggle buttons making choices visible
+)
 
 HEURISTICS: 7. Flexibility and Efficiency of Use
 VIOLATION:
+- "Plan Schedule" does not provide route preferences options
+- "Plan Schedule" does not allow users plan from arrival time
+- Departure time does not allow users to select different dates
+- limited customization options (Assuming more options in the settings, but not explicitly presented)
 RECOMMENDATION:
-SEVERITY:
-(Strengths:)
+- Provide route preferences options in "Plan Schedule"
+- Allow users to plan from arrival time
+- Allow users to select different dates in the departure time
+- Provide more customization options
+- Provide suggestions based on user input
+SEVERITY: 3
+(Strengths:
+- Notification timing can be customized
+- Disability setting provides customization / personalization options
+)
 
 HEURISTICS: 8. Aesthetic and Minimalist Design
 VIOLATION:
+- Share with group section take focus away from to/from and departure time
+(Assuming the primary goal of "Plan Schedule" is to plan and search, not making the list of "Plan" which used in the future)
 RECOMMENDATION:
-SEVERITY:
-(Strengths:)
+- Adjust the text / component size to improve readability
+SEVERITY: 2
+(Strengths:
+- Tool bar contains minimal components
+)
 
 HEURISTICS: 9. Help Users Recognize, Diagnose, and Recover from Errors
 VIOLATION:
+- No error messages are explicitly presented
+- No feedback on invalid inputs
 RECOMMENDATION:
-SEVERITY:
+- Provide clear error messages when invalid inputs are made
+- Use traditional error-message visuals, like bold, red text
+- Tell users what went wrong in language they will understand
+- Offer users a solution, like a shortcut that can solve the error immediately
+SEVERITY: 3
 (Strengths:)
 
 HEURISTICS: 10. Help and Documentation
 VIOLATION:
+- No visible help section
 RECOMMENDATION:
-SEVERITY:
-(Strengths:)
+- Provide a help section or documentation access points in the interface
+SEVERITY: 2
+(Strengths:
+- Settings are always visible and accessible which may contain help information
+)
