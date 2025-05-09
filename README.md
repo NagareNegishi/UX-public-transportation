@@ -4,22 +4,16 @@
 This project focuses on improving the public transportation experience for urban users, making it easier for people with varying schedules, purposes, and preferences to navigate, plan, and use public transport more effectively.
 
 ## Team Members
-- [Member 1 Name] - [Animal Role]
-- [Member 2 Name] - [Animal Role]
-- [Member 3 Name] - [Animal Role]
-- [Member 4 Name] - [Animal Role]
-- [Member 5 Name] - [Animal Role]
-- [Member 6 Name] - [Animal Role]
-
-## Animal Roles
-https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Animals-Explanation.pdf
-
 - Bear:
 - Wolf:
 - Cat:
 - Puppy:
 - Owl:
 - Rabbit:
+
+## Animal Roles
+https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Animals-Explanation.pdf
+
 
 ## Repository Structure
 - `/Background` - Background information about the project

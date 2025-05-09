@@ -39,11 +39,11 @@ Reference: [Nielsen Norman Group - 10 Usability Heuristics](https://www.nngroup.
 
 ## Evaluation Timeline
 - Date for distributing evaluation templates: May 8, 2025, 8:00 PM
-- Deadline for individual evaluations: Ideally by May 8, 2025, 8:00 PM
+- Deadline for individual evaluations: Ideally by May 11, 2025, 8:00 PM
 - Date for consolidating findings: Ideally on next meeting
 - Date for presenting results: Ideally on next meeting
 
-**Next Meeting:** May 8, 2025, 8:00 PM
+**Next Meeting:** May 11, 2025, 8:00 PM
 
 
 
