@@ -46,7 +46,7 @@ SEVERITY: 1
 HEURISTICS: 3. User Control and Freedom
 VIOLATION:
 - No visible "back" button on some screens
-- May be difficult to delete saved routes (from Edit icon??) 
+- May be difficult to delete saved routes (from Edit icon??)
 RECOMMENDATION:
 - Add a "back" button to all screens for easy navigation
 - Make the "delete" option more noticeable
