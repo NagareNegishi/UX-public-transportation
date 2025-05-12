@@ -5,7 +5,7 @@ This project focuses on improving the public transportation experience for urban
 
 ## Team Members
 - Bear:
-- Wolf:
+- Wolf: Nagare Negishi
 - Cat:
 - Puppy:
 - Owl:

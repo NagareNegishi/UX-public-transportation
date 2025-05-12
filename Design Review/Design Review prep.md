@@ -21,6 +21,40 @@
 Create our own evaluation table to consolidate findings.
 reference: [Example](https://www.researchgate.net/publication/340895224_Usability_evaluation_of_a_comprehensive_national_health_information_system_A_heuristic_evaluation)
 
+**Table used:**
+Design Review table.xlsx
+
+The table in the reference had serious problems:
+- Only show the average severity, but not calculation method
+- No clear explanation of the severity rating
+- Either the calculation is wrong or calculation logic to each heuristic is inconsistent
+
+Therefore, we used more logical and intuitive calculation method.  
+Our design review used the following severity rating system:  
+SEVERITY:  
+0 = I don't agree that this is a usability problem at all  
+1 = Cosmetic problem only: fix if time is available  
+2 = Minor usability problem: fixing this should be given low priority  
+3 = Major usability problem: important to fix, given high priority  
+4 = Usability catastrophe: fix this before product can be released  
+
+We assigned the coefficients to each severity rating as follows:
+- None = 0
+- Cosmetic = 1
+- Minor = 2
+- Major = 3
+- Catastrophe = 4
+
+The average severity is calculated as follows:
+- Severity rating = number of evaluation * coefficient
+for each severity rating category.
+- Average severity = (sum of severity ratings) / (number of heuristics evaluated)
+
+To be more specific:
+Average severity = (number of None * 0 + number of Cosmetic * 1 + number of Minor * 2 + number of Major * 3 + number of Catastrophe * 4) / (number of heuristics evaluated)
+
+where number of heuristics evaluated is always 3. (3 heuristics per evaluation) 
+
 
 ## Heuristics to Be Used
 Nielsen's 10 Usability Heuristics:
@@ -43,8 +77,8 @@ Reference: [Nielsen Norman Group - 10 Usability Heuristics](https://www.nngroup.
 - Date for consolidating findings: Ideally on next meeting
 - Date for presenting results: Ideally on next meeting
 
-**Next Meeting:** May 11, 2025, 8:00 PM
-
+**Next Meeting:** May 11, 2025, 8:00 PM -> 1 hour
+**Next Meeting:** May 16, 2025, 2:00 PM
 
 
 ### Links:
