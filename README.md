@@ -4,12 +4,12 @@
 This project focuses on improving the public transportation experience for urban users, making it easier for people with varying schedules, purposes, and preferences to navigate, plan, and use public transport more effectively.
 
 ## Team Members
-- Bear:
+- Bear: Joshua Neylan
 - Wolf: Nagare Negishi
-- Cat:
-- Puppy:
-- Owl:
-- Rabbit:
+- Cat: Adam Tither
+- Puppy: Anthony Wen
+- Owl: Ben Ferguson
+- Rabbit: Philip Chang
 
 ## Animal Roles
 https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Animals-Explanation.pdf
