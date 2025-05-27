@@ -12,6 +12,11 @@ SEVERITY:
 4 = Usability catastrophe: fix this before product can be released  
 
 
+## Note on Evaluation Approach
+
+While the agreed-upon evaluation template focused on identifying issues and severity ratings, I felt this approach was too limited for a comprehensive design review. Therefore, I expanded the analysis to include both strengths and weaknesses of each design. 
+This additional analysis helped me better understand each design's contribution to our project. By identifying strengths, I could see how different design decisions were often trade-offs - some apparent "issues" were actually conscious choices that provided other benefits. This deeper understanding was crucial for merging everyone's designs effectively, as it allowed me to preserve the valuable aspects of each approach while addressing genuine usability concerns. 
+
 ## Nagare's Heuristic Evaluation on Adam's design
 
 HEURISTICS: 1. Visibility of System Status
