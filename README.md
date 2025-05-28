@@ -20,7 +20,7 @@ https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Anim
 3. Design ideation
 4. Design review
 5. Prototype
-6. Video
+6. [Video](https://youtu.be/hS_onzSDRTA)
 
 ## Repository Structure
 - `/Background` - Background information about the project
