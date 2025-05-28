@@ -5,7 +5,14 @@ This folder contains the original wireframes and designs created by each group m
 ## Contents
 
 All designs are provided as Figma files (.fig format):
+- Adam_Assign2.fig
+- Anthony's Wireframes.fig
+- Ben's Assignment2 Wireframes.fig
+- Josh Task 1.fig
+- Josh Task 2.fig
+- Josh Task 3.fig
 - Nagare Assignment 2.fig
+- Philip's Assignment 02.fig
 
 ## Viewing Instructions
 
