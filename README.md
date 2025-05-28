@@ -15,7 +15,7 @@ This project focuses on improving the public transportation experience for urban
 https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Animals-Explanation.pdf
 
 ## Required Content
-1. Background to the project
+1. Background to the project: [**Background.md**](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/blob/main/Background/Background.md?ref_type=heads) in `/Background`
 2. Personas
 3. Design ideation
 4. Design review
@@ -30,18 +30,4 @@ https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Anim
 - `/Prototype` - Final prototype files and description
 - `/Docs` - Additional documentation
 
-## Prototype
-Our prototype is built using Figma and focuses on [????????].
-
-## Video Demonstration
-[Link to video demonstration - YouTube/Vimeo]
-
-## Individual Contributions
-Brief overview of who contributed what to the project.
-
-## Design Review Methodology
-We evaluated our initial designs using [evaluation method] to determine the most effective features to incorporate in our final prototype.
-
-## Submission Details
-- Due Date: 23:59 Friday 30 May 2025 (End of Week 12)
 
