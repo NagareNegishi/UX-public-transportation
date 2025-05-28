@@ -19,7 +19,7 @@ https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Anim
 2. Personas
 3. Design ideation
 4. Design review
-5. [Prototype (Figma)](https://www.figma.com/proto/SpOR4m4X7jSEych4QiQftg/swen303_team5_prototype?node-id=0-1&t=TnjcrWQKic7HlOoa-1)
+5. [Prototype (Figma)](https://www.figma.com/proto/4ZnvTTBtCg3RzAqjAmOaKq/Prototype?node-id=2912-6913&t=8UDysjLHzu7jTpyx-1)
 6. [Video](https://youtu.be/hS_onzSDRTA)
 
 ## Repository Structure
