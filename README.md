@@ -14,7 +14,13 @@ This project focuses on improving the public transportation experience for urban
 ## Animal Roles
 https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Animals-Explanation.pdf
 
-## Required Content
+## Required Content for part 2
+1. Usability Test Plan: [Usability Test Plan.pdf](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/blob/main/Usability%20Test%20plan/Usability%20Test%20Plan.pdf?ref_type=heads) in `/Usability Test plan`
+2. Usability Test Results
+3. Updates from Results: All issues start with "Prototype Update Suggestion"
+4. Discussion of Results
+
+## Required Content for part 1
 1. Background to the project: [**Background.md**](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/blob/main/Background/Background.md?ref_type=heads) in `/Background`
 2. Personas
 3. Design ideation
@@ -28,4 +34,6 @@ https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Anim
 - `/Design ideation` - Original wireframes and user flows from Assignment 2
 - `/Design Review` - Evaluation of designs using heuristic evaluation/cognitive walkthrough
 - `/Prototype` - Final prototype files and description
+- `/Usability Test plan` - Usability test plan document
+- `/Usability Test Results` - Results from usability testing
 - `/Docs` - Additional documentation
