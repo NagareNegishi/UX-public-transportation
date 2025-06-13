@@ -16,7 +16,11 @@ https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Anim
 
 ## Required Content for part 2
 1. Usability Test Plan: [Usability Test Plan.pdf](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/blob/main/Usability%20Test%20plan/Usability%20Test%20Plan.pdf?ref_type=heads) in `/Usability Test plan`
-2. Usability Test Results
+2. Usability Test Results: [Usability Test Results.pdf](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/blob/Nagare/Usability%20Test%20Results/Usability%20Test%20Results.pdf?ref_type=heads) in `/Usability Test Results`
+
+!!!!!!! need to corect link after merge !!!!!!!!
+currently nagare blanch!!!!!!!!!!! not main branch!!!!!!!!!!!!!
+
 3. Updates from Results: All issues start with "Prototype Update Suggestion"
 4. Discussion of Results
 
