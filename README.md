@@ -23,7 +23,10 @@ currently nagare blanch!!!!!!!!!!! not main branch!!!!!!!!!!!!!
 
 3. Updates from Results: All issues start with "Prototype Update Suggestion" 
     Updated Prototype.md in `/Updated Prototype` contains a list of issues, however this is just helping markers to check issues, the actual submission, documentation are each git issues as project handout specifies, and the marker must check each issue starting with "Prototype Update Suggestion" for assessment, not this document.
-4. Discussion of Results
+4. Discussion of Results: [Usability Test Discussion.pdf](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/blob/Nagare/Usability%20Test%20Discussion/Usability%20Test%20Discussion.pdf?ref_type=heads) in `/Usability Test Discussion`
+
+!!!!!!! need to corect link after merge !!!!!!!!
+currently nagare blanch!!!!!!!!!!! not main branch!!!!!!!!!!!!!
 
 ## Required Content for part 1
 1. Background to the project: [**Background.md**](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/blob/main/Background/Background.md?ref_type=heads) in `/Background`
