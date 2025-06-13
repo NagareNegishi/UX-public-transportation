@@ -21,7 +21,8 @@ https://ecs.wgtn.ac.nz/foswiki/pub/Courses/SWEN303_2025T1/GroupProjectPart1/Anim
 !!!!!!! need to corect link after merge !!!!!!!!
 currently nagare blanch!!!!!!!!!!! not main branch!!!!!!!!!!!!!
 
-3. Updates from Results: All issues start with "Prototype Update Suggestion"
+3. Updates from Results: All issues start with "Prototype Update Suggestion" 
+    Updated Prototype.md in `/Updated Prototype` contains a list of issues, however this is just helping markers to check issues, the actual submission, documentation are each git issues as project handout specifies, and the marker must check each issue starting with "Prototype Update Suggestion" for assessment, not this document.
 4. Discussion of Results
 
 ## Required Content for part 1
