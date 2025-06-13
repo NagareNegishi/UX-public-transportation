@@ -8,7 +8,7 @@ SEVERITY:
 3 = Major usability problem: important to fix, given high priority  
 4 = Usability catastrophe: fix this before product can be released  
 
-## Nagare's Heuristic Evaluation on Adam's design
+## Nagare's Heuristic Evaluation on team 5 prototype
 
 HEURISTICS: 1. Visibility of System Status
 VIOLATION:
