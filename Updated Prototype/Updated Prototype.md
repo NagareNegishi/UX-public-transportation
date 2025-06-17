@@ -19,27 +19,27 @@
 
 - Prototype Update Suggestion: Route Selection vs Navigation Button Confusion (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/27) 
 
-- Prototype Update Suggestion: Sharing unfavorited routes 
+- Prototype Update Suggestion: Sharing unfavorited routes (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/28) 
 
-- Prototype Update Suggestion: Navigation bar on Route Information screen 
+- Prototype Update Suggestion: Navigation bar on Route Information screen (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/29) 
 
-- Prototype Update Suggestion: Too many elements at top of screen (Accessability issue) 
+- Prototype Update Suggestion: Too many elements at top of screen (Accessability issue) (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/30) 
 
-- Prototype Update Suggestion: Removing elements from bottom of screen. 
+- Prototype Update Suggestion: Removing elements from bottom of screen. (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/31) 
 
-- Prototype Update Suggestion: Alert Button Label 
+- Prototype Update Suggestion: Alert Button Label (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/32) 
 
-- Prototype Update Suggestion: Reducing Icon inconsistency 
+- Prototype Update Suggestion: Reducing Icon inconsistency (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/33) 
 
-- Prototype Update Suggestion: Route Screen Bottom Bar 
+- Prototype Update Suggestion: Route Screen Bottom Bar (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/34) 
 
-- Prototype Update Suggestion: Improving Clarity Of Favourites / Saved Routes Page 
+- Prototype Update Suggestion: Improving Clarity Of Favourites / Saved Routes Page (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/35) 
 
-- Prototype Update Suggestion: Favourites Screen Not Scrollable 
+- Prototype Update Suggestion: Favourites Screen Not Scrollable (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/36) 
 
-- Prototype Update Suggestion: Show Current Location on Map 
+- Prototype Update Suggestion: Show Current Location on Map (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/37) 
 
-- Prototype Update Suggestion: User Current Location on Map 
+- Prototype Update Suggestion: User Current Location on Map (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2025/project1/team5/swen303-group-project/-/issues/38) 
 
 
 
